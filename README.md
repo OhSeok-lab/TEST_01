@@ -34,7 +34,6 @@ alter(name+"님 환영합니다.")
 ```
 [이니모의 깃허브]<https://github.com/funnycom/js-bbasic>
 [이니모의 깃허브2](https://github.com/funnycom/js-bbasic)
-
 [이니모의 깃허브2](https://github.com/funnycom/js-bbasic,  "니모의 깃허브")
 
 
